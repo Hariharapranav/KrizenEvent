@@ -1,2 +1,1 @@
-# KrizenEvent
-My e Commerce Website 
+Landing Page Prototype made in Adobe XD
